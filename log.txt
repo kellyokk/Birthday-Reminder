@@ -1,0 +1,125 @@
+[2025-07-18 03:05:26] ❌ Failed to send message to +13658800418: name 'msg' is not defined
+zsh: command not found: 0
+zsh: command not found: 30
+zsh: command not found: 42
+zsh: command not found: 43
+[2025-07-18 03:43:59] ❌ Failed to send message to +13658800418: name 'msg' is not defined
+[2025-07-18 03:43:59] ❌ Failed to send message to +13658803262: name 'msg' is not defined
+[2025-07-18 03:44:51] ❌ Failed to send message to +13658800418: name 'msg' is not defined
+[2025-07-18 03:44:52] ❌ Failed to send message to +13658803262: name 'msg' is not defined
+[2025-07-18 03:46:33] ✅ Message sent to +13658800418, SID: SM46f0cef68499456e3e7edb1a2232e62d
+[2025-07-18 03:46:34] ✅ Message sent to +13658803262, SID: SMc1ed91719e7ed658ca1f55706b9802bc
+[2025-07-18 04:35:51] ❌ Failed to send message to +13658800418: 
+[31m[49mHTTP Error[0m [37m[49mYour request was:[0m
+
+[36m[49mPOST /Accounts/None/Messages.json[0m
+
+[37m[49mTwilio returned the following information:[0m
+
+[34m[49mUnable to create record: Authentication Error - No credentials provided[0m
+
+[37m[49mMore information may be available here:[0m
+
+[34m[49mhttps://www.twilio.com/docs/errors/20003[0m
+
+
+[2025-07-18 04:35:51] ❌ Failed to send message to +13658803262: 
+[31m[49mHTTP Error[0m [37m[49mYour request was:[0m
+
+[36m[49mPOST /Accounts/None/Messages.json[0m
+
+[37m[49mTwilio returned the following information:[0m
+
+[34m[49mUnable to create record: Authentication Error - No credentials provided[0m
+
+[37m[49mMore information may be available here:[0m
+
+[34m[49mhttps://www.twilio.com/docs/errors/20003[0m
+
+
+[2025-07-18 04:39:00] ❌ Failed to send message to +13658800418: 
+[31m[49mHTTP Error[0m [37m[49mYour request was:[0m
+
+[36m[49mPOST /Accounts/None/Messages.json[0m
+
+[37m[49mTwilio returned the following information:[0m
+
+[34m[49mUnable to create record: Authentication Error - No credentials provided[0m
+
+[37m[49mMore information may be available here:[0m
+
+[34m[49mhttps://www.twilio.com/docs/errors/20003[0m
+
+
+[2025-07-18 04:39:01] ❌ Failed to send message to +13658803262: 
+[31m[49mHTTP Error[0m [37m[49mYour request was:[0m
+
+[36m[49mPOST /Accounts/None/Messages.json[0m
+
+[37m[49mTwilio returned the following information:[0m
+
+[34m[49mUnable to create record: Authentication Error - No credentials provided[0m
+
+[37m[49mMore information may be available here:[0m
+
+[34m[49mhttps://www.twilio.com/docs/errors/20003[0m
+
+
+[2025-07-18 04:40:29] ❌ Failed to send message to +13658800418: 
+[31m[49mHTTP Error[0m [37m[49mYour request was:[0m
+
+[36m[49mPOST /Accounts/None/Messages.json[0m
+
+[37m[49mTwilio returned the following information:[0m
+
+[34m[49mUnable to create record: Authentication Error - No credentials provided[0m
+
+[37m[49mMore information may be available here:[0m
+
+[34m[49mhttps://www.twilio.com/docs/errors/20003[0m
+
+
+[2025-07-18 04:40:30] ❌ Failed to send message to +13658803262: 
+[31m[49mHTTP Error[0m [37m[49mYour request was:[0m
+
+[36m[49mPOST /Accounts/None/Messages.json[0m
+
+[37m[49mTwilio returned the following information:[0m
+
+[34m[49mUnable to create record: Authentication Error - No credentials provided[0m
+
+[37m[49mMore information may be available here:[0m
+
+[34m[49mhttps://www.twilio.com/docs/errors/20003[0m
+
+
+[2025-07-18 04:41:14] ❌ Failed to send message to +13658800418: 
+[31m[49mHTTP Error[0m [37m[49mYour request was:[0m
+
+[36m[49mPOST /Accounts/None/Messages.json[0m
+
+[37m[49mTwilio returned the following information:[0m
+
+[34m[49mUnable to create record: Authentication Error - No credentials provided[0m
+
+[37m[49mMore information may be available here:[0m
+
+[34m[49mhttps://www.twilio.com/docs/errors/20003[0m
+
+
+[2025-07-18 04:41:14] ❌ Failed to send message to +13658803262: 
+[31m[49mHTTP Error[0m [37m[49mYour request was:[0m
+
+[36m[49mPOST /Accounts/None/Messages.json[0m
+
+[37m[49mTwilio returned the following information:[0m
+
+[34m[49mUnable to create record: Authentication Error - No credentials provided[0m
+
+[37m[49mMore information may be available here:[0m
+
+[34m[49mhttps://www.twilio.com/docs/errors/20003[0m
+
+
+[2025-07-18 04:41:25] ✅ Message sent to +13658800418, SID: SM272590dd499ce34e120715d2889ed7fe
+[2025-07-18 04:41:25] ✅ Message sent to +13658803262, SID: SMa138030fdcbb56d6c6679c87170d3cd3
