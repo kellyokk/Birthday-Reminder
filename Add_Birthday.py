@@ -6,7 +6,7 @@ import json
 st.set_page_config(page_title="Add Birthday - Birthday Reminder App", page_icon="🎂", layout="wide")
 st.page_link("Dashboard.py", label="⬅️ Back to Dashboard")
 
-BIRTHDAY_FILE = "/Birthday Reminder App/birthdays.json"
+BIRTHDAY_FILE = "/Users/euniceokeke/Birthday Reminder App/birthdays.json"
 
 # ---- Function to validate name ----
 def is_valid_name(name):
